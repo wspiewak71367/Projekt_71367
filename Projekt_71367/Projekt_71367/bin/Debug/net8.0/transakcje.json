@@ -1,0 +1,65 @@
+[
+  {
+    "Produkt": {
+      "Nazwa": "Coca-Cola",
+      "Cena": 6,
+      "Ilosc": 50
+    },
+    "Data": "2026-02-04T19:12:40",
+    "Kwota": 10
+  },
+  {
+    "Produkt": {
+      "Nazwa": "Sok Jab\u0142kowy",
+      "Cena": 5,
+      "Ilosc": 35
+    },
+    "Data": "2026-02-04T19:15:10",
+    "Kwota": 5
+  },
+  {
+    "Produkt": {
+      "Nazwa": "Red Bull",
+      "Cena": 8,
+      "Ilosc": 25
+    },
+    "Data": "2026-02-04T19:20:25",
+    "Kwota": 10
+  },
+  {
+    "Produkt": {
+      "Nazwa": "Woda Mineralna",
+      "Cena": 3,
+      "Ilosc": 60
+    },
+    "Data": "2026-02-04T19:22:50",
+    "Kwota": 5
+  },
+  {
+    "Produkt": {
+      "Nazwa": "Sok Pomara\u0144czowy",
+      "Cena": 5,
+      "Ilosc": 40
+    },
+    "Data": "2026-02-04T19:30:05",
+    "Kwota": 5
+  },
+  {
+    "Produkt": {
+      "Nazwa": "Pepsi",
+      "Cena": 5,
+      "Ilosc": 39
+    },
+    "Data": "2026-02-04T19:30:52.6373367+01:00",
+    "Kwota": 5
+  },
+  {
+    "Produkt": {
+      "Nazwa": "Herbata Mro\u017Cona",
+      "Cena": 4,
+      "Ilosc": 29
+    },
+    "Data": "2026-02-04T19:34:29.7000491+01:00",
+    "Kwota": 4
+  }
+]

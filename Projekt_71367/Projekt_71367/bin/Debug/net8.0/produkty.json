@@ -1,0 +1,142 @@
+[
+  {
+    "Typ": "Gazowany",
+    "Nazwa": "Coca-Cola",
+    "Cena": 6,
+    "Ilosc": 50,
+    "CzySlodzony": true
+  },
+  {
+    "Typ": "Gazowany",
+    "Nazwa": "Pepsi",
+    "Cena": 5,
+    "Ilosc": 39,
+    "CzySlodzony": true
+  },
+  {
+    "Typ": "Gazowany",
+    "Nazwa": "Sprite",
+    "Cena": 5,
+    "Ilosc": 35,
+    "CzySlodzony": false
+  },
+  {
+    "Typ": "Gazowany",
+    "Nazwa": "Fanta",
+    "Cena": 5,
+    "Ilosc": 30,
+    "CzySlodzony": true
+  },
+  {
+    "Typ": "NieGazowany",
+    "Nazwa": "Woda Mineralna",
+    "Cena": 3,
+    "Ilosc": 60,
+    "Smak": "naturalna"
+  },
+  {
+    "Typ": "NieGazowany",
+    "Nazwa": "Woda Smakowa Cytryna",
+    "Cena": 4,
+    "Ilosc": 50,
+    "Smak": "cytryna"
+  },
+  {
+    "Typ": "NieGazowany",
+    "Nazwa": "Woda Smakowa Malina",
+    "Cena": 4,
+    "Ilosc": 45,
+    "Smak": "malina"
+  },
+  {
+    "Typ": "Sok",
+    "Nazwa": "Sok Pomara\u0144czowy",
+    "Cena": 5,
+    "Ilosc": 40,
+    "Owoc": "pomara\u0144cza"
+  },
+  {
+    "Typ": "Sok",
+    "Nazwa": "Sok Jab\u0142kowy",
+    "Cena": 5,
+    "Ilosc": 35,
+    "Owoc": "jab\u0142ko"
+  },
+  {
+    "Typ": "Sok",
+    "Nazwa": "Sok Ananasowy",
+    "Cena": 6,
+    "Ilosc": 30,
+    "Owoc": "ananas"
+  },
+  {
+    "Typ": "Energetyk",
+    "Nazwa": "Red Bull",
+    "Cena": 8,
+    "Ilosc": 25,
+    "KofeinaMg": 80
+  },
+  {
+    "Typ": "Energetyk",
+    "Nazwa": "Tiger",
+    "Cena": 7,
+    "Ilosc": 20,
+    "KofeinaMg": 70
+  },
+  {
+    "Typ": "Energetyk",
+    "Nazwa": "Monster",
+    "Cena": 9,
+    "Ilosc": 15,
+    "KofeinaMg": 90
+  },
+  {
+    "Typ": "Gazowany",
+    "Nazwa": "7 Up",
+    "Cena": 5,
+    "Ilosc": 25,
+    "CzySlodzony": false
+  },
+  {
+    "Typ": "NieGazowany",
+    "Nazwa": "Herbata Mro\u017Cona",
+    "Cena": 4,
+    "Ilosc": 29,
+    "Smak": "brzoskwinia"
+  },
+  {
+    "Typ": "Sok",
+    "Nazwa": "Sok Wi\u015Bniowy",
+    "Cena": 6,
+    "Ilosc": 20,
+    "Owoc": "wi\u015Bnia"
+  },
+  {
+    "Typ": "Gazowany",
+    "Nazwa": "Pepsi Max",
+    "Cena": 5,
+    "Ilosc": 35,
+    "CzySlodzony": false
+  },
+  {
+    "Typ": "NieGazowany",
+    "Nazwa": "Koktajl Owocowy",
+    "Cena": 6,
+    "Ilosc": 25,
+    "Smak": "mango-marakuja"
+  },
+  {
+    "Typ": "Sok",
+    "Nazwa": "Sok Grejpfrutowy",
+    "Cena": 5,
+    "Ilosc": 20,
+    "Owoc": "grejpfrut"
+  },
+  {
+    "Typ": "Energetyk",
+    "Nazwa": "Black Energy",
+    "Cena": 7,
+    "Ilosc": 15,
+    "KofeinaMg": 85
+  }
+]
